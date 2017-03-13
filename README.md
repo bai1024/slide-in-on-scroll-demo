@@ -1,7 +1,7 @@
 #slide-in-on-scroll
 
 ##效果图
-![img](http://ok7n02kz6.bkt.clouddn.com/llclfqH-XTtOcxvsgYSxZeKqLRQ8.gif)
+<center>![img](http://ok7n02kz6.bkt.clouddn.com/Fhd7KA5KueOnSYCXQ-SRzieyeUIl.gif)</center>>
 
 ## 知识点
 1.`debounce`

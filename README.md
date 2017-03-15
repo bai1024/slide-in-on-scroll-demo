@@ -1,10 +1,8 @@
 # slide-in-on-scroll
 
-## 效果图
 <p align="center">
   <img src="http://ok7n02kz6.bkt.clouddn.com/Fhd7KA5KueOnSYCXQ-SRzieyeUIl.gif" alt="effect picture" />
 </p>
-
 
 ## 知识点
 1.`debounce`

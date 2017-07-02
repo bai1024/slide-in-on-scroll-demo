@@ -1,4 +1,4 @@
-# Slide in on Scroll
+# Slide in on Scroll Demo
 
 实现页面滚动时，图片滑入动效。[Online Demo](https://dingdingbai.github.io/slide-in-on-scroll/)
 
